@@ -1,4 +1,30 @@
 # My Leetcode History
+## Problem Pools
+| Problem      | Difficulty |
+| ------------ | ---------- |
+| 1. Two Sum   | Easy       |
+| 2. Add Two Numbers    | Medium     |
+| 3. Longest Substring Without Repeating Characters    | Medium     |
+| 5. Longest Palindromic Substring   | Medium     |
+| 6. Zigzag Conversion    | Medium     |
+| 7. Reverse Integer   | Medium     |
+| 9. Palindrome Number    | Medium     |
+| 10. Regular Expression Matching    | Hard   |
+| 11. Container With Most Water    | Medium     |
+| 13. Roman to Integer    | Easy     |
+| 19. Remove Nth Node From End of List    | Medium     |
+| 20. Valid Parentheses    | Easy     |
+| 21. Merge Two Sorted Lists    | Easy     |
+| 26. Remove Duplicates from Sorted Array    | Easy     |
+| 36. Valid Sudoku    | Medium     |
+| 46. Permutations    | Medium     |
+| 48. Rotate Image    | Medium     |
+| 53. Maximum Subarray    | Easy     |
+| 74. Search a 2D Matrix   | Medium     |
+| 83. Remove Duplicates from Sorted List    | Easy     |
+| 88. Merge Sorted Array    | Easy     |
+| 94. Binary Tree Inorder Traversal    | Easy     |
+
 ## Shortest Path in Binary Matrix
 
 ```cpp=
