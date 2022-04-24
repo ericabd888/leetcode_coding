@@ -6,7 +6,7 @@
 | [2. Add Two Numbers](Medium_problem/2.%20Add%20Two%20Numbers)    | Medium     |
 | 3. Longest Substring Without Repeating Characters    | Medium     |
 | [5. Longest Palindromic Substring](Medium_problem/5.%20Longest%20Palindromic%20Substring)   | Medium     |
-| 6. Zigzag Conversion    | Medium     |
+| [6. Zigzag Conversion](Medium_problem/6.%20Zigzag%20Conversion)    | Medium     |
 | 7. Reverse Integer   | Medium     |
 | 9. Palindrome Number    | Medium     |
 | 10. Regular Expression Matching    | Hard   |
