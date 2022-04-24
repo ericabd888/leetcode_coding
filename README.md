@@ -4,7 +4,7 @@
 | ------------ | ---------- |
 | [1. Two Sum](Easy_problem/1.%20Two%20Sum)   | Easy       |
 | [2. Add Two Numbers](Medium_problem/2.%20Add%20Two%20Numbers)    | Medium     |
-| 3. Longest Substring Without Repeating Characters    | Medium     |
+| [3. Longest Substring Without Repeating Characters](Medium_problem/3.%20Longest%20Substring%20Without%20Repeating%20Characters)    | Medium     |
 | [5. Longest Palindromic Substring](Medium_problem/5.%20Longest%20Palindromic%20Substring)   | Medium     |
 | [6. Zigzag Conversion](Medium_problem/6.%20Zigzag%20Conversion)    | Medium     |
 | 7. Reverse Integer   | Medium     |
