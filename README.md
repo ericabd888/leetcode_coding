@@ -14,7 +14,7 @@
 | [13. Roman to Integer](Easy_problem/13.%20Roman%20to%20Integer)    | Easy     |
 | [19. Remove Nth Node From End of List](Medium_problem/19.%20Remove%20Nth%20Node%20From%20End%20of%20List)    | Medium     |
 | [20. Valid Parentheses](Easy_problem/20.%20Valid%20Parentheses)    | Easy     |
-| 21. Merge Two Sorted Lists    | Easy     |
+| [21. Merge Two Sorted Lists](Easy_problem/21.%20Merge%20Two%20Sorted%20Lists)    | Easy     |
 | [26. Remove Duplicates from Sorted Array](Easy_problem/26.%20Remove%20Duplicates%20from%20Sorted%20Array)    | Easy     |
 | [36. Valid Sudoku](Medium_problem/36.%20Valid%20Sudoku)    | Medium     |
 | 46. Permutations    | Medium     |
