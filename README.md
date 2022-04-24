@@ -3,7 +3,7 @@
 | Problem      | Difficulty |
 | ------------ | ---------- |
 | [1. Two Sum](Easy_problem/1.%20Two%20Sum)   | Easy       |
-| 2. Add Two Numbers    | Medium     |
+| [2. Add Two Numbers](Medium_problem/2.%20Add%20Two%20Numbers)    | Medium     |
 | 3. Longest Substring Without Repeating Characters    | Medium     |
 | 5. Longest Palindromic Substring   | Medium     |
 | 6. Zigzag Conversion    | Medium     |
