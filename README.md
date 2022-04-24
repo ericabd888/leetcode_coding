@@ -7,7 +7,7 @@
 | [3. Longest Substring Without Repeating Characters](Medium_problem/3.%20Longest%20Substring%20Without%20Repeating%20Characters)    | Medium     |
 | [5. Longest Palindromic Substring](Medium_problem/5.%20Longest%20Palindromic%20Substring)   | Medium     |
 | [6. Zigzag Conversion](Medium_problem/6.%20Zigzag%20Conversion)    | Medium     |
-| 7. Reverse Integer   | Medium     |
+| [7. Reverse Integer](Medium_problem/7.%20Reverse%20Integer)   | Medium     |
 | 9. Palindrome Number    | Medium     |
 | [10. Regular Expression Matching](Hard_problem/10.%20Regular%20Expression%20Matching)    | Hard   |
 | 11. Container With Most Water    | Medium     |
