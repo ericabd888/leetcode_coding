@@ -16,7 +16,7 @@
 | 20. Valid Parentheses    | Easy     |
 | 21. Merge Two Sorted Lists    | Easy     |
 | [26. Remove Duplicates from Sorted Array](Easy_problem/26.%20Remove%20Duplicates%20from%20Sorted%20Array)    | Easy     |
-| 36. Valid Sudoku    | Medium     |
+| [36. Valid Sudoku](Medium_problem/36.%20Valid%20Sudoku)    | Medium     |
 | 46. Permutations    | Medium     |
 | 48. Rotate Image    | Medium     |
 | 53. Maximum Subarray    | Easy     |
