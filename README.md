@@ -15,7 +15,7 @@
 | [19. Remove Nth Node From End of List](Medium_problem/19.%20Remove%20Nth%20Node%20From%20End%20of%20List)    | Medium     |
 | 20. Valid Parentheses    | Easy     |
 | 21. Merge Two Sorted Lists    | Easy     |
-| 26. Remove Duplicates from Sorted Array    | Easy     |
+| [26. Remove Duplicates from Sorted Array](Easy_problem/26.%20Remove%20Duplicates%20from%20Sorted%20Array)    | Easy     |
 | 36. Valid Sudoku    | Medium     |
 | 46. Permutations    | Medium     |
 | 48. Rotate Image    | Medium     |
