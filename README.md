@@ -21,7 +21,7 @@
 | [48. Rotate Image](Medium_problem/48.%20Rotate%20Image)    | Medium     |
 | [53. Maximum Subarray](Easy_problem/53.%20Maximum%20Subarray)    | Easy     |
 | [74. Search a 2D Matrix](Medium_problem/74.%20Search%20a%202D%20Matrix)   | Medium     |
-| 83. Remove Duplicates from Sorted List    | Easy     |
+| [83. Remove Duplicates from Sorted List](Easy_problem/83.%20Remove%20Duplicates%20from%20Sorted%20List)    | Easy     |
 | 88. Merge Sorted Array    | Easy     |
 | 94. Binary Tree Inorder Traversal    | Easy     |
 
