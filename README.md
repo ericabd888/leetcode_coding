@@ -19,7 +19,7 @@
 | [36. Valid Sudoku](Medium_problem/36.%20Valid%20Sudoku)    | Medium     |
 | [46. Permutations](Medium_problem/46.%20Permutations)    | Medium     |
 | [48. Rotate Image](Medium_problem/48.%20Rotate%20Image)    | Medium     |
-| 53. Maximum Subarray    | Easy     |
+| [53. Maximum Subarray](Easy_problem/53.%20Maximum%20Subarray)    | Easy     |
 | 74. Search a 2D Matrix   | Medium     |
 | 83. Remove Duplicates from Sorted List    | Easy     |
 | 88. Merge Sorted Array    | Easy     |
