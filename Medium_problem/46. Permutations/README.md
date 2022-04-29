@@ -23,7 +23,7 @@ Output: [[1]]
 
 **IDEAs:**
 * backtracking 演算法
-<img src=https://i.imgur.com/aLEZl78.png, width=450>
+<img src=https://i.imgur.com/aLEZl78.png, width=500>
 
 **C++**
 ```cpp
