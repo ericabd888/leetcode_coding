@@ -23,6 +23,6 @@
 | [74. Search a 2D Matrix](Medium_problem/74.%20Search%20a%202D%20Matrix)   | Medium     |
 | [83. Remove Duplicates from Sorted List](Easy_problem/83.%20Remove%20Duplicates%20from%20Sorted%20List)    | Easy     |
 | [88. Merge Sorted Array](Easy_problem/88.%20Merge%20Sorted%20Array)    | Easy     |
-| 94. Binary Tree Inorder Traversal    | Easy     |
+| [94. Binary Tree Inorder Traversal](Easy_problem/94.%20Binary%20Tree%20Inorder%20Traversal)    | Easy     |
 
 
