@@ -2,7 +2,7 @@
 Given the head of a sorted linked list, delete all duplicates such that each element appears only once. Return the linked list sorted as well.
 
 **Example 1:**<br>
-<img src=https://user-images.githubusercontent.com/32319856/165881141-74498dd8-89ad-467d-b5a6-5cff0070288c.png width=300>
+<img src=https://user-images.githubusercontent.com/32319856/165881141-74498dd8-89ad-467d-b5a6-5cff0070288c.png width=200>
 ```
 Input: head = [1,1,2]
 Output: [1,2]
