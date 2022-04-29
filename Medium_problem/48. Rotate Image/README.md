@@ -2,14 +2,16 @@
 You are given an n x n 2D matrix representing an image, rotate the image by 90 degrees (clockwise).
 
 You have to rotate the image in-place, which means you have to modify the input 2D matrix directly. DO NOT allocate another 2D matrix and do the rotation.
+
 **Example 1:**
-![image](https://user-images.githubusercontent.com/32319856/165879662-4960f0af-fd8e-4b53-b50e-2061e5e56aed.png =250x)
+<img src=https://user-images.githubusercontent.com/32319856/165879662-4960f0af-fd8e-4b53-b50e-2061e5e56aed.png width=300>
+
 ```
 Input: matrix = [[1,2,3],[4,5,6],[7,8,9]]
 Output: [[7,4,1],[8,5,2],[9,6,3]]
 ```
 **Example 2:**
-![image](https://user-images.githubusercontent.com/32319856/165879748-5a3dff77-849c-4772-a812-fd3f33485497.png =250x)
+<img src=https://user-images.githubusercontent.com/32319856/165879748-5a3dff77-849c-4772-a812-fd3f33485497.png width=300>
 
 ```
 Input: matrix = [[5,1,9,11],[2,4,8,10],[13,3,6,7],[15,14,12,16]]
