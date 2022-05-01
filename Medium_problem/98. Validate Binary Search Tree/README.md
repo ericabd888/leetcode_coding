@@ -25,7 +25,7 @@ Explanation: The root node's value is 5 but its right child's value is 4.
 * The number of nodes in the tree is in the range [1, 104].
 * -231 <= Node.val <= 231 - 1
 
-**IDEAs:*
+**IDEAs:**
 * Just Follow The BST Definition.
 * Recursive
 
