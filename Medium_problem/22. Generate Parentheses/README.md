@@ -20,7 +20,7 @@ Output: ["()"]
 * DFS
 
 **C++:**
-```cpp=
+```cpp
 class Solution {
 public:
     vector<string> generateParenthesis(int n) {
