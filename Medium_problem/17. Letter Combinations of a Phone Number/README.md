@@ -31,7 +31,7 @@ Output: ["a","b","c"]
 * DFS
 
 **C++:**
-```
+```cpp
 class Solution {
 public:
     vector<string> letterCombinations(string digits) {
