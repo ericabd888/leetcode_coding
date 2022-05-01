@@ -25,4 +25,4 @@
 | [83. Remove Duplicates from Sorted List](Easy_problem/83.%20Remove%20Duplicates%20from%20Sorted%20List)    | Easy     |
 | [88. Merge Sorted Array](Easy_problem/88.%20Merge%20Sorted%20Array)    | Easy     |
 | [94. Binary Tree Inorder Traversal](Easy_problem/94.%20Binary%20Tree%20Inorder%20Traversal)    | Easy     |
-| [98. Validate Binary Search Tree](Easy_problem/94.%20Binary%20Tree%20Inorder%20Traversal)    | Medium     |
+| [98. Validate Binary Search Tree](Medium_problem/98.%20Validate%20Binary%20Search%20Tree)    | Medium     |
