@@ -31,3 +31,10 @@
 | [88. Merge Sorted Array](Easy_problem/88.%20Merge%20Sorted%20Array)    | Easy     |
 | [94. Binary Tree Inorder Traversal](Easy_problem/94.%20Binary%20Tree%20Inorder%20Traversal)    | Easy     |
 | [98. Validate Binary Search Tree](Medium_problem/98.%20Validate%20Binary%20Search%20Tree)    | Medium     |
+
+```js
+function GetCellValues() {
+    var table = document.getElementById('user-content-marker').nextSibling.nextSibling;
+    console.log(table.rows.length);
+}
+```
