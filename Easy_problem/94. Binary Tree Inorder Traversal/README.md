@@ -30,6 +30,18 @@ Output: [1]
 
 **C++:**
 ```cpp
-class Solution{
-}
+class Solution {
+public:
+  vector<int> inorderTraversal(TreeNode* root) {    
+    vector<int> ans;
+    inorder(root, ans);
+    return ans;
+  }
+  void inorder(TreeNode* root, vector<int>& ans) {
+    if (root == null) return;
+    inorderTraversal(root->left, ans);
+    ans.push_back(root->val);
+    inorderTraversal(root->right, ans);    
+  }
+};
 ```
