@@ -26,7 +26,7 @@
 | [48. Rotate Image](Medium_problem/48.%20Rotate%20Image)    | Medium     |
 | [53. Maximum Subarray](Easy_problem/53.%20Maximum%20Subarray)    | Easy     |
 | [62. Unique Paths](Medium_problem/62.%20Unique%20Paths)   | Medium     |
-| [64. Minimum Path Sum](Medium_problem/62.%20Unique%20Paths)   | Medium     |
+| [64. Minimum Path Sum](Medium_problem/64.%20Minimum%20Path%20Sum)   | Medium     |
 | [74. Search a 2D Matrix](Medium_problem/74.%20Search%20a%202D%20Matrix)   | Medium     |
 | [83. Remove Duplicates from Sorted List](Easy_problem/83.%20Remove%20Duplicates%20from%20Sorted%20List)    | Easy     |
 | [88. Merge Sorted Array](Easy_problem/88.%20Merge%20Sorted%20Array)    | Easy     |
