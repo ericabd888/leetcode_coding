@@ -35,6 +35,7 @@
 
 
 ```js
+// this code can get the table row size
 function GetCellValues() {
     var table = document.getElementById('user-content-marker').nextSibling.nextSibling;
     console.log(table.rows.length);
